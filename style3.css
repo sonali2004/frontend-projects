@@ -1,0 +1,22 @@
+header{
+    background-color: burlywood;
+}
+section.my-article{
+    background-color: rgb(10, 25, 39);
+}
+header p{
+    color: rgb(255, 47, 175);
+}
+li a{
+    color: darkgoldenrod;
+}
+section.my-article h2{
+    color: crimson;
+}
+h2+p{
+    color: lightcoral;
+    
+}
+ul+p{
+    color: green;
+}

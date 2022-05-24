@@ -1,0 +1,17 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-color: blueviolet;
+}
+.container{
+    background-color: crimson;
+    font-style: italic;
+}
+.body {
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+}

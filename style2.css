@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main-heading{
+    background-color: aquamarine;
+
+}
+.subsection{
+    background-color: lightgreen;
+    
+    
+}
+p{
+    color: hotpink;
+}
+#heading{
+    color: black;
+}
+.blog{
+    color: chocolate;
+}
+.cute{
+    color: darkorchid;
+}
+.writting{
+    color: dodgerblue;
+}
+.oloo{
+    color: seagreen;
+}
+.text{
+    color: yellowgreen;
+}
